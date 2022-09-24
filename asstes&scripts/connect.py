@@ -17,3 +17,7 @@ connect = connect()
     return 
   else if login = True: 
     login()
+
+parse = parse()
+while True:
+  array=array()
